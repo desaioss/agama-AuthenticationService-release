@@ -3,7 +3,7 @@
     "description": "username password base authentication flow",
     "type": "community",
     "author": "desaioss",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authorWebsite": "https://github.com/desaioss/agama-AuthenticationService-release",
     "githubUri": "https://github.com/desaioss/agama-AuthenticationService-release",
     "license": "apache-2.0",
